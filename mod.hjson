@@ -1,10 +1,10 @@
 // file name very used in logic like template-block.
-name: "template"
+name: "outlineless"
 
-displayName: "Mod Template"
-repo: "Fat-Bird-Owner/Mindustry-mod-template-hjson"
+displayName: "[accent[]]Outline-less Units[[]]"
+repo: "Fat-Bird-Owner/outline-less-units"
 subtitle: ""
-author: ""
+author: "Fat Bird's Owner"
 
 description: ""
 
